@@ -1,0 +1,2 @@
+10. Write a PHP program to sort the student records which are stored in the database 
+using selection sort.
